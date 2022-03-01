@@ -1,5 +1,5 @@
 
-Le fichier contenent le tous est le fichier index.html
+Le fichier contenent le tous est le fichier index.html +Rapport
 # Leaflet.PolylineMeasure
 * Leaflet Plugin to **measure distances** of simple lines as well as of complex polylines.
 * Measuring in **metric system** (metres, kilometres), in **imperial system** (feet, landmiles), or in **nautical miles**.
